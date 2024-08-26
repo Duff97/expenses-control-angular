@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/expenses-control-angular/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
